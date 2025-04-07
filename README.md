@@ -20,9 +20,20 @@ Train rides analysis in the UK focuses on understanding travel behavior, revenue
 - total reveue request:1118
 - adult rail card revenue:4846
 - family and friends revenue:20918
-  # SECONDARY KPIS
+# SECONDARY KPIS
+Which railcard types are most frequently used for train ticket purchases?”
+
+What are the most common payment methods used for each type of ticket purchase?”
+
+How many journeys fall under each status category (e.g., completed, cancelled, in progress)?”
+What is the relationship between journey status and refund requests?”
+
+Which departure stations generate the highest revenue?”
+
+What are the top arrival destinations based on revenue?”
+
   
-  # DATA ANALYSIS
+# DATA ANALYSIS
 
 # DASHBOARD 
 # INSIGHT
