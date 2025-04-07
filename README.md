@@ -56,15 +56,29 @@ London Paddington generated the highest revenue among all departure stations.
 	6.	Revenue by Arrival Destination:
 Birmingham New Street was the top arrival destination in terms of revenue.
 # RECOMMENDED
-Count of Transaction by Railcard:
-The Family & Friends railcard had the highest number of transactions, significantly more than other railcard types.
-	2.	Purchase Type by Payment Type:
-Credit cards were the most commonly used payment method across all purchase types.
-	3.	Count of Journey Status:
-The majority of train journeys were completed on time, with fewer cancelled or delayed.
-	4.	Journey Status by Refund Request:
-Most journeys did not result in a refund request, indicating overall customer satisfaction or low disruption.
-	5.	Revenue by Departure Station:
-London Paddington generated the highest revenue among all departure stations.
-	6.	Revenue by Arrival Destination:
-Birmingham New Street was the top arrival destination in terms of revenue.
+Count of Transaction by Railcard – Recommendation:
+Promote underutilized railcards (e.g., Senior and Disabled) through targeted campaigns to increase usage and inclusivity, while continuing to support the popular Family & Friends railcard with loyalty or referral programs.
+
+⸻
+
+	2.	Purchase Type by Payment Type – Recommendation:
+Since credit cards dominate, ensure smooth, secure processing and consider offering discounts or incentives for using alternative methods like contactless or debit cards to reduce transaction fees and increase convenience.
+
+⸻
+
+	3.	Count of Journey Status – Recommendation:
+With most journeys running on time, highlight this performance in marketing to build customer trust, while analyzing and addressing causes behind delays and cancellations to further boost reliability.
+
+⸻
+
+	4.	Journey Status by Refund Request – Recommendation:
+Review the refund policy and reasons behind refund requests on completed journeys to improve customer satisfaction and reduce post-journey complaints through better communication or service recovery strategies.
+
+⸻
+
+	5.	Revenue by Departure Station – Recommendation:
+Invest in amenities and promotions at high-revenue stations like London Paddington to enhance customer experience, while evaluating and developing lower-performing stations to balance network value.
+
+⸻
+6.	Revenue by Arrival Destination – Recommendation:
+Use Birmingham New Street and London Euston as benchmarks for high-performing destinations and explore expanding service offerings, partnerships, or dynamic pricing to further capitalize on these profitable routes.
