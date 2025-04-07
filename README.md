@@ -34,7 +34,37 @@ What are the top arrival destinations based on revenue?”
 
   
 # DATA ANALYSIS
+Count of Transaction by Railcard:The Family & Friends railcard had the highest number of transactions, significantly more than other railcard types.
+Purchase Type by Payment Type:Credit cards were the most commonly used payment method across all purchase types.
+Count of Journey Status:The majority of train journeys were completed on time, with fewer cancelled or delayed.
+Journey Status by Refund Request:Most journeys did not result in a refund request, indicating overall customer satisfaction or low disruption.
+Revenue by Departure Station:London Paddington generated the highest revenue among all departure stations.
+Revenue by Arrival Destination:Birmingham New Street was the top arrival destination in terms of revenue.
 
 # DASHBOARD 
 # INSIGHT
-# ANALYSIS
+Count of Transaction by Railcard:
+The Family & Friends railcard had the highest number of transactions, significantly more than other railcard types.
+	2.	Purchase Type by Payment Type:
+Credit cards were the most commonly used payment method across all purchase types.
+	3.	Count of Journey Status:
+The majority of train journeys were completed on time, with fewer cancelled or delayed.
+	4.	Journey Status by Refund Request:
+Most journeys did not result in a refund request, indicating overall customer satisfaction or low disruption.
+	5.	Revenue by Departure Station:
+London Paddington generated the highest revenue among all departure stations.
+	6.	Revenue by Arrival Destination:
+Birmingham New Street was the top arrival destination in terms of revenue.
+# RECOMMENDED
+Count of Transaction by Railcard:
+The Family & Friends railcard had the highest number of transactions, significantly more than other railcard types.
+	2.	Purchase Type by Payment Type:
+Credit cards were the most commonly used payment method across all purchase types.
+	3.	Count of Journey Status:
+The majority of train journeys were completed on time, with fewer cancelled or delayed.
+	4.	Journey Status by Refund Request:
+Most journeys did not result in a refund request, indicating overall customer satisfaction or low disruption.
+	5.	Revenue by Departure Station:
+London Paddington generated the highest revenue among all departure stations.
+	6.	Revenue by Arrival Destination:
+Birmingham New Street was the top arrival destination in terms of revenue.
